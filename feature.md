@@ -1,5 +1,11 @@
 ## List Fitur E-Learning
 
+### Fitur Statndard
+- Notifikasi Email
+- Notifikasi FCM
+- Image Processing ?
+- Video Upload ?
+
 ### Standard User
 
 1. Register
