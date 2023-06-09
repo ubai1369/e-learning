@@ -16,6 +16,13 @@
 2. Login
   - Login by Google, etc,
   - Login by email dan password
+  - Forgot Password
 
 3. Contact Us
   - Contact Us Page
+
+### Admin Panel
+1. Manage User
+  - CRUD user
+  - Suspend User ?
+  - Change role User
